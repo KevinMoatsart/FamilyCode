@@ -1,0 +1,6 @@
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\bin\Debug\MoatsFamily.exe.config
+C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\bin\Debug\MoatsFamily.exe
+C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\bin\Debug\MoatsFamily.pdb
+C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.exe
+C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.pdb
