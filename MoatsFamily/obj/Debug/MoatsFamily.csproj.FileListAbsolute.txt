@@ -4,3 +4,9 @@ C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsF
 C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.csprojResolveAssemblyReference.cache
 C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.exe
 C:\Users\Kevin Moatsart\documents\visual studio 2015\Projects\MoatsFamily\MoatsFamily\obj\Debug\MoatsFamily.pdb
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\bin\Debug\MoatsFamily.exe.config
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\obj\Debug\MoatsFamily.exe
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\obj\Debug\MoatsFamily.pdb
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\bin\Debug\MoatsFamily.exe
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\bin\Debug\MoatsFamily.pdb
+C:\Users\Kevin Moatsart\Documents\Visual Studio 2015\Projects\MoatsFamily\FamilyCode\MoatsFamily\obj\Debug\MoatsFamily.csprojResolveAssemblyReference.cache
