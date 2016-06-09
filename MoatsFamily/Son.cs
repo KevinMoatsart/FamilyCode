@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MoatsFamily
 {
-    class Son : Person
+    sealed class Son : Person
     {
 
         public bool HasGirlfriend { get; set; }

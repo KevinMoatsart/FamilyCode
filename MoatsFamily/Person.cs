@@ -60,21 +60,24 @@ namespace MoatsFamily
             Console.WriteLine("Say hello to an unreachable statement.");
         }
 
-        static public void AssignRole(string role, out Role toReturn)
+        public static Role AssignRole()
         {
 
             while(true)
             {
+                Role tempRole = Role.son;
                 try
                 {
-                    toReturn = (Person.Role)Enum.Parse(typeof(Person.Role), role);
-                    break;
+                    tempRole = (Person.Role)Enum.Parse(typeof(Person.Role), Console.ReadLine());
+                    return tempRole;
                 }
-                catch (ArgumentException e)
+                catch (ArgumentException)
                 {
-                    Console.WriteLine("You did not not enter a valid family role: \n\n{0}", e);
-                    Console.WriteLine("\n\nPlease copy and paste this code into an email to woops@.woops so we can fix it" +
-                       "in the future.\n\n");
+                    Console.WriteLine("You did not not enter a valid family role.");
+                }
+                catch(FormatException)
+                {
+                    Console.WriteLine("You did not not enter a valid family role.");
                 }
 
             }
@@ -126,9 +129,9 @@ namespace MoatsFamily
                     }
                 }               
                 Console.WriteLine("Please enter family member {0}'s role (ex. father, mother, son, daughter)", i + 1);
-                testRole = Console.ReadLine();
+                role = AssignRole();
 
-                Person.AssignRole(testRole, out role);
+                
 
                 switch (role)
                 {
